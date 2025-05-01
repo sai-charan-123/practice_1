@@ -1,0 +1,12 @@
+w=50
+print(w)
+w-=5
+print(w)
+w-=10
+print(w)
+w-=15
+print(w)
+w-=20
+print(w)
+w-=25
+print(w)
